@@ -31813,7 +31813,7 @@ background: linear-gradient(322deg, rgba(99,107,47,1) 0%, rgba(254,237,0,1) 100%
     right: 7%;
     top: 0;
     z-index: 2;
-    mix-blend-mode: soft-light;
+    mix-blend-mode:soft-light;
     background-color: #4D5765;
     -webkit-transform: matrix(-1, 0, 0, 1, 0, 0);
     -ms-transform: matrix(-1, 0, 0, 1, 0, 0);
@@ -31821,6 +31821,7 @@ background: linear-gradient(322deg, rgba(99,107,47,1) 0%, rgba(254,237,0,1) 100%
     -webkit-clip-path: path("M1083 0H240L0 880H843L1083 0Z");
     clip-path: path("M1083 0H240L0 880H843L1083 0Z");
     z-index: 1
+   
 }
 
 @media (max-width: 991px) {
@@ -36788,4 +36789,8 @@ background: linear-gradient(322deg, rgba(99,107,47,1) 0%, rgba(254,237,0,1) 100%
 }
 #contact-sec {
     background-color: #B1C29E;
+}
+
+.hero-shape-1{
+    opacity: 0.4;
 }
