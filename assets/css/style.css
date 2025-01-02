@@ -36823,7 +36823,7 @@ background: linear-gradient(322deg, rgba(99,107,47,1) 0%, rgba(254,237,0,1) 100%
 
 .product-card img {
     width: 100%;
-    height: 450px;
+    height: 373px;
     border-bottom: 3px solid #ff6f61;
 }
 
@@ -36839,6 +36839,8 @@ background: linear-gradient(322deg, rgba(99,107,47,1) 0%, rgba(254,237,0,1) 100%
     transition: background 0.3s ease;
    
 }
+
+
 
 
 
